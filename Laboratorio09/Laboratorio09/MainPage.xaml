@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Laboratorio09.MainPage">
+
+    <StackLayout>
+        <StackLayout Orientation="Vertical">
+            <Button x:Name="Item1" Text="TapDemo" Background="Green" />
+            <Button x:Name="Item2" Text="PanDemo"  Background="Blue" />
+            <Button x:Name="Item3" Text="SwipedDemo"  Background="Gray" />
+            <Button x:Name="Item4" Text="PinchDemo"  Background="Red" />
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>
