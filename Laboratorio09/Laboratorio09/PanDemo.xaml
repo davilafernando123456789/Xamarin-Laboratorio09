@@ -9,7 +9,7 @@
     <ContentPage.Content>
         <AbsoluteLayout>
             <local:PanContainer>
-                <Image Source="jhon.jpg" WidthRequest="1024" HeightRequest="768" />
+                <Image Source="quinta.jpg" WidthRequest="1024" HeightRequest="768" />
             </local:PanContainer>
         </AbsoluteLayout>
     </ContentPage.Content>

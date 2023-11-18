@@ -20,7 +20,7 @@ namespace Laboratorio09.Views
             InitializeComponent();
             var image = new Image
             {
-                Source = "jhon.jpg",
+                Source = "avengers.png",
                 HorizontalOptions = LayoutOptions.Center,
                 VerticalOptions = LayoutOptions.CenterAndExpand,
             };
@@ -60,12 +60,12 @@ namespace Laboratorio09.Views
 
                 if (tapCount % 2 == 0) 
                 {
-                    imageSender.Source = "taped.jpg";
+                    imageSender.Source = "tercera.jpg";
 
                 }
                 else
                 {
-                    imageSender.Source = "jhon.jpg";
+                    imageSender.Source = "segunda.jpg";
                 }
             }
         }
